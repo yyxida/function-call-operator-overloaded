@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数调用运算符重载", "函数调用运算符重载\函数调用运算符重载.vcxproj", "{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Debug|x64.ActiveCfg = Debug|x64
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Debug|x64.Build.0 = Debug|x64
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Debug|x86.Build.0 = Debug|Win32
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Release|x64.ActiveCfg = Release|x64
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Release|x64.Build.0 = Release|x64
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Release|x86.ActiveCfg = Release|Win32
+		{B864D7DE-6A61-4D86-93B6-0E59DDD8D04D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6F8817-F57E-4C8A-BCD9-5667B9D5BA3E}
+	EndGlobalSection
+EndGlobal
